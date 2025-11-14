@@ -25,9 +25,10 @@ case 4:
     break;
 case 5:
     printf("Subject Name: CO\n");
-    printf("Timings: 2:00pm-3:00pm");
+    printf("Timings: 2:00pm-3:00pm\n");
     default:
     printf("NO CLASSES\n");
 }
 return 0;
 }
+
